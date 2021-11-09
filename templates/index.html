@@ -8,24 +8,24 @@
 <body> 
     <div class='img'></div>
         <form action='/predict' method="post" class="form">
-            <h2>Score out of 800</h2>
+            <h2>What is your score out of 800</h2>
             <input class="score"  type="text" class="floatLabel" name="score" value="">
-            <h2>Aptitude</h2>
+            <h2>Enter Percentage in Aptitude</h2>
             <input class="aptitude"  type="text" class="floatLabel" name="aptitude" value="">
-            <h2>English</h2>
+            <h2>Enter Percentage in English</h2>
             <input class="english"  type="text" class="floatLabel" name="english" value="">
-            <h2>Quantitative</h2>
+            <h2>Enter Percentage in Quantitative</h2>
             <input class="quantitative"  type="text" class="floatLabel" name="quantitative" value="">
-            <h2>Analytical</h2>
+            <h2>Enter Percentage in Analytical</h2>
             <input class="analytical"  type="text"  class="floatLabel" name="analytical" value="">
-            <h2>Domain</h2>
+            <h2>Enter Percentage in Domain</h2>
             <input class="domain"  type="text" class="floatLabel" name="domain" value="">
-            <h2>Computer Fundamental</h2>
+            <h2>Enter Percentage in Computer Fundamentals</h2>
             <input class="compfund"  type="text"  class="floatLabel" name="compfund" value="">
-            <h2>Coding</h2>
+            <h2>Enter Percentage in Coding</h2>
             <input class="coding"  type="text" class="floatLabel" name="coding" value="">
 
-            <button class="submit" type="submit">Predicted Placement</button>
+            <button class="submit" type="submit">Predict Placement</button>
             <div id="uiEstimatedPlacement" class="result">	<h2>{{ prediction_text }}</h2> </div>
             </br>
             </br>
