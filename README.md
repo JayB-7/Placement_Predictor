@@ -12,5 +12,5 @@ flask server to retrieve the predicted placement status.
 # Screenshots:
 Glimpse of the web app:
 
-<img src="readme_templates/Screenshot%20(553).png" width="600" height="350"/> <img src="readme_templates/Screenshot%20(554).png" width="600" height="350"/> 
+<img src="readme_templates/Screenshot%20(553).png" width="700" height="450"/> <img src="readme_templates/Screenshot%20(554).png" width="700" height="450"/> 
 
