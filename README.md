@@ -11,7 +11,6 @@ flask server to retrieve the predicted placement status.
 
 # Screenshots:
 Glimpse of the web app:
-Solarized dark                                      |  Solarized Ocean
-:--------------------------------------------------:|:-------------------------:
+
 ![image1](readme_templates/Screenshot%20(553).png)  |  ![image2](readme_templates/Screenshot%20(554).png)
 
