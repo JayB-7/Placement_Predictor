@@ -11,7 +11,7 @@ flask server to retrieve the predicted placement status.
     - Python flask for server  - HTML,CSS for UI
     - IDE - Jupyter Notebook, Pycharm
 - This repository is used to deploy a **machine learning web app** created with **Flask** on **Heroku** platform.
-    Deployment Link: https://placement-predictor-jb.herokuapp.com/
+    Deployment Link: 
 
 ## Glimpse of the web app:
 1) Landing Page:
